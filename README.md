@@ -1,16 +1,13 @@
-### Hi there 👋
+# Carlinhos 👋
 
-<!--
-**kalogs-c/kalogs-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I craft some digital stuff. I'm currently developing a platform to show the world lovely Brazilian food.
 
-Here are some ideas to get you started:
+- :scroll: My tech stack: Typescript | Node.js | SQL | Go | Docker | Google Cloud | Kubernetes | React | Next.js
+- 🔭 Working on [Inicie educação](https://inicie.digital/)
+- 🌱 Learning Go and Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 You can reach me through my email carloscamilocontato@gmail.com or [linkedin](https://www.linkedin.com/in/carloshcamilo/) 
+ 
+- ⚡ Fun fact: I love pão de queijo :brazil:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalogs-c&hide=TeX&layout=compact)
