@@ -10,4 +10,4 @@ I craft some digital stuff. I'm currently developing a platform to show the worl
  
 - ⚡ Fun fact: I love pão de queijo :brazil:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalogs-c&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalogs-c&layout=compact&theme=catppuccin&langs_count=10)
