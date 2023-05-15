@@ -1,6 +1,6 @@
 # Carlinhos 👋
 
-I craft some digital stuff. I'm currently developing a platform to show the world lovely Brazilian food.
+I craft some digital stuff and write some [blog](https://kablogs.fun/) posts.
 
 - :scroll: My tech stack: Typescript | Node.js | SQL | Go | Docker | Google Cloud | Kubernetes | React | Next.js
 - 🔭 Software Engineer at [Inicie](https://inicie.digital/)
