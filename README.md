@@ -2,6 +2,8 @@
 
 I craft some digital stuff and write some [blog](https://kablogs.fun/) posts.
 
+Creator of [Calcular Remessa Conforme](calcular-remessa-conforme.vercel.app)
+
 - :scroll: My current tech stack: Typescript | Go | Google Cloud | Kubernetes | React | Next.js
 - 🔭 Software Engineer at [Inicie](https://inicie.digital/)
 - 🌱 Learning Functional paradigm, Kubernetes, Google Cloud and Terraform
