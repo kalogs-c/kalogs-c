@@ -11,4 +11,4 @@ I craft some digital stuff and write some [blog](https://kablogs.fun/) posts.
  
 - ⚡ Fun fact: I love pão de queijo :brazil: and I use vim btw
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalogs-c&layout=compact&theme=catppuccin&langs_count=10&exclude_repo=kablogs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalogs-c&layout=compact&theme=catppuccin&langs_count=10&exclude_repo=kablogs,exercism.ex,exercism.clj)
